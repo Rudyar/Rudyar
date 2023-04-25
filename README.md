@@ -20,4 +20,4 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,webpack)](https://skillicons.dev)  
 
 
-![Rudyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudyar&show_icons=true&theme=radical)
+<!-- ![Rudyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudyar&show_icons=true&theme=radical) -->
