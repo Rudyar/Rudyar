@@ -4,17 +4,8 @@
 
 ## About me
 
-🧠 I'm currently learning fullstack web dev
+🧠 I'm currently coding something new
 
 📫 How to reach me arudy@student.42.fr  
-
-![Sep](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)  
-
-## 🥷 Skills
-[![My Skills](https://skillicons.dev/icons?i=ts,nest,nodejs,docker,postgres,cpp,c,html,css,sass,bash)](https://skillicons.dev)  
-
-## 🛠️ Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,webpack)](https://skillicons.dev)  
-
 
 <!-- ![Rudyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudyar&show_icons=true&theme=radical) -->
