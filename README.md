@@ -1,6 +1,9 @@
 # Hi, I'm Arthur! 👋
+&nbsp;
+
 
 ## 🧠 I'm currently coding something new
+&nbsp;
 
 📫 How to reach me arudy@student.42.fr  
 
